@@ -1,0 +1,19 @@
+{
+  "name": "fxrtdata2pgsql",
+  "version": "0.0.1",
+  "description": "Realtime FX exchange rates to fxdata2pgsql database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fx",
+    "realtime",
+    "exchangerate.host"
+  ],
+  "author": "Reese Russell",
+  "license": "MIT ",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
